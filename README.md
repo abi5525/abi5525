@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijith V A
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning FullStack Developmet
+- 👀 I’m interested in web development
+- 🌱 I’m currently working as a backend developer
 - 📫 reach me on abj8981@gmail.com
 
 <!---
